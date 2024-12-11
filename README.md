@@ -1,6 +1,8 @@
 # vue-nlq
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue example for Sisense NLQ
+
+<img width="824" alt="vue-nlq" src="https://github.com/user-attachments/assets/9c44fc1d-0e16-4aa4-8dc8-c8d199bbedcd" />
 
 ## Recommended IDE Setup
 
